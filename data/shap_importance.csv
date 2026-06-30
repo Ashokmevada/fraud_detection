@@ -1,0 +1,54 @@
+feature,mean_abs_shap,rank
+high_risk_attempts,0.16590214,1
+is_night_transaction,0.14208691,2
+is_international,0.11851854,3
+hour_of_day,0.07303476,4
+merchant_category_ATM Withdrawal,0.04217058,5
+merchant_category_Crypto Exchange,0.040311962,6
+merchant_category_Jewelry,0.038887285,7
+pin_changed_recently,0.030747257,8
+time_since_last_txn_hrs,0.02696144,9
+failed_attempts,0.009483307,10
+credit_score,0.0012658684,11
+distance_from_home_km,0.0010929448,12
+customer_age,0.0009519486,13
+account_balance,0.0008831011,14
+account_age_years,0.0007250064,15
+transaction_freq_monthly,0.000572574,16
+num_prev_transactions,0.00055306393,17
+transaction_amount,0.00042569166,18
+merchant_category_Gaming,0.00037197603,19
+device_type_Mobile,0.00027594756,20
+merchant_category_Healthcare,0.00019084463,21
+merchant_category_Online Shopping,0.00019082263,22
+country_Australia,0.0001835389,23
+payment_method_Credit Card,0.00015757242,24
+device_type_Desktop,0.00014300305,25
+payment_method_Debit Card,0.00014062425,26
+merchant_category_Entertainment,0.0001085178,27
+device_type_Tablet,7.635406e-05,28
+is_weekend,6.880896e-05,29
+country_Germany,6.541717e-05,30
+merchant_category_Restaurant,6.468703e-05,31
+country_Brazil,6.1081795e-05,32
+merchant_category_Utilities,5.9421778e-05,33
+merchant_category_Electronics,5.7345773e-05,34
+country_UK,5.114122e-05,35
+merchant_category_Travel,4.9471222e-05,36
+country_India,3.772604e-05,37
+country_Canada,3.6242e-05,38
+device_type_POS Terminal,3.5904362e-05,39
+country_France,3.2645046e-05,40
+merchant_category_Education,3.173153e-05,41
+payment_method_Cheque,3.0505656e-05,42
+payment_method_Crypto,2.3496626e-05,43
+payment_method_Bank Transfer,2.2602057e-05,44
+country_Mexico,1.497063e-05,45
+merchant_category_Grocery,1.2860225e-05,46
+country_Japan,1.0247555e-05,47
+country_USA,9.0967405e-06,48
+merchant_category_Fuel,8.102458e-06,49
+payment_method_Mobile Payment,0.0,50
+merchant_category_Clothing,0.0,51
+device_type_ATM,0.0,52
+high_value_transaction,0.0,53
