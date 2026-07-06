@@ -178,7 +178,7 @@ fraud\Scripts\activate        # Windows
 pip install -r requirements.txt
 
 # 4. Download the dataset from Kaggle
-# https://www.kaggle.com/datasets/[dataset-link]
+# https://www.kaggle.com/datasets/nafiulislam490/bank-transaction-fraud-detection-dataset
 # Place the CSV in /data/bank_fraud.csv
 
 # 5. Run notebooks in order
